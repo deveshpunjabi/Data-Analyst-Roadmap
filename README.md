@@ -1,855 +1,554 @@
 # 🚀 Complete Data Analyst Roadmap 2025
-### *From Zero to Hero - Your Ultimate Interactive Guide to Becoming a Professional Data Analyst*
+### *From Zero to Hero - Your Ultimate Guide to Becoming a Professional Data Analyst*
 
 <div align="center">
 
 ![Data Analyst Roadmap](https://img.shields.io/badge/Data%20Analyst-Roadmap-blue?style=for-the-badge&logo=analytics&logoColor=white)
 ![Free Resources](https://img.shields.io/badge/100%25-Free%20Resources-green?style=for-the-badge&logo=opensource&logoColor=white)
-![Projects](https://img.shields.io/badge/25+-Hands%20On%20Projects-orange?style=for-the-badge&logo=github&logoColor=white)
-![Duration](https://img.shields.io/badge/Duration-8%20Weeks-red?style=for-the-badge&logo=calendar&logoColor=white)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-August%202025-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+![Projects](https://img.shields.io/badge/20+-Hands%20On%20Projects-orange?style=for-the-badge&logo=github&logoColor=white)
+![Duration](https://img.shields.io/badge/Duration-6%20Months-red?style=for-the-badge&logo=calendar&logoColor=white)
 
-**⭐ Star this repository if you find it helpful! ⭐**
+**⭐ Star this repository if you find it helpful!**
 
-[🎯 Start 8-Week Program](#-8-week-intensive-program) • [📊 Interactive Projects](#-interactive-projects-portfolio) • [🧪 Practice Challenges](#-assessment-checkpoints) • [📚 Resources](#-curated-resources) • [💼 Career Track](#-career-acceleration-track)
+[🎯 Start Learning](#-learning-path) • [📊 Projects](#-hands-on-projects) • [🔧 Tools](#-essential-tools) • [📚 Resources](#-free-resources) • [💼 Career](#-career-guidance)
 
 </div>
 
 ---
 
-## 🎯 **8-Week Intensive Program**
+## 🎯 **Learning Path Overview**
 
-> **Total Time Investment**: 15-20 hours/week | **Completion Rate**: 94% success rate based on community feedback
+### **🏁 Prerequisites**
+- Basic computer literacy
+- High school mathematics
+- Curiosity to learn and solve problems
+- **No prior programming experience required!**
 
-### **⏱️ Learning Schedule Options**
-| Schedule Type | Hours/Week | Duration | Best For |
-|---------------|------------|----------|----------|
-| **🚀 Intensive** | 25-30 hours | 6 weeks | Career changers, bootcamp style |
-| **⚖️ Balanced** | 15-20 hours | 8 weeks | Working professionals |
-| **🐌 Part-time** | 8-12 hours | 12 weeks | Students, busy schedules |
+### **⏱️ Time Investment**
+- **Part-time**: 10-15 hours/week (6 months)
+- **Full-time**: 30-40 hours/week (3 months)
+- **Weekend learner**: 8-10 hours/week (8 months)
 
-### **📊 Success Metrics Dashboard**
-- **Projects Completed**: 25+ hands-on projects
-- **Tools Mastered**: 8 industry-standard tools
-- **Assessments Passed**: 16 skill checkpoints
-- **Portfolio Ready**: Professional 5-project showcase
-- **Job Ready**: Interview preparation + mock interviews
+### **🎯 Learning Outcomes**
+After completing this roadmap, you'll be able to:
+- ✅ Clean and analyze complex datasets
+- ✅ Create professional dashboards and visualizations
+- ✅ Write efficient SQL queries for database analysis
+- ✅ Perform statistical analysis and hypothesis testing
+- ✅ Build predictive models using machine learning
+- ✅ Communicate insights to stakeholders effectively
+- ✅ Land your first data analyst job
 
 ---
 
-## 📅 **Week-by-Week Breakdown**
+## 📈 **Learning Path**
 
-### **Week 1: Foundation & Excel Mastery** 📊
-**⏱️ Time Allocation**: 18 hours total
-- Monday-Tuesday: Statistics (6 hours)
-- Wednesday-Thursday: Excel Basics (6 hours)
-- Friday-Weekend: Advanced Excel + Project (6 hours)
+### **Phase 1: Foundation & Excel Mastery** 📊
+*Duration: 4-6 weeks*
 
-#### **Daily Learning Plan**
-**Day 1-2: Statistics Fundamentals** (6 hours)
-- [ ] **Hour 1-2**: Descriptive Statistics
+#### **Week 1-2: Mathematics & Statistics**
+- [ ] **Descriptive Statistics**
   - Mean, Median, Mode, Standard Deviation
-  - **📹 Video**: [StatQuest: Statistics Fundamentals](https://www.youtube.com/watch?v=qBigTkBLU6g)
-  - **📝 Notes**: [Download Statistics Cheat Sheet](./Resources/Cheat-Sheets/statistics-fundamentals.pdf)
-- [ ] **Hour 3-4**: Probability & Distributions
-  - Normal, Binomial, Poisson distributions
-  - **🎯 Mini-Challenge**: [Probability Calculator Exercise](./Challenges/Week1/probability-calculator.md)
-- [ ] **Hour 5-6**: Hypothesis Testing Basics
-  - P-values, Confidence Intervals
-  - **✅ Assessment**: [Statistics Quiz (15 questions)](./Assessments/Week1/statistics-quiz.md)
+  - Quartiles and Percentiles
+  - Data Distribution and Skewness
+  - **📚 Resource**: [Khan Academy Statistics](https://www.khanacademy.org/math/statistics-probability)
+  - **📝 Notes**: [Statistics Fundamentals](./01-Foundation/01-Statistics/)
+  - **🎯 Project**: [Analyzing Student Grades Dataset](./Projects/01-Student-Grades-Analysis/)
 
-**Day 3-4: Excel Mastery** (6 hours)
-- [ ] **Hour 1-2**: Excel Fundamentals
-  - Functions: VLOOKUP, INDEX-MATCH, IF statements
-  - **📁 Dataset**: [Employee Data Practice](./Datasets/Week1/employee-data.xlsx)
-- [ ] **Hour 3-4**: Pivot Tables & Charts
-  - Dynamic reporting and data summarization
-  - **🎯 Mini-Project**: [Sales Analysis Dashboard](./Projects/Week1/excel-sales-dashboard/)
-- [ ] **Hour 5-6**: Advanced Features
-  - Data validation, conditional formatting, macros
-  - **✅ Assessment**: [Excel Skills Test](./Assessments/Week1/excel-practical.md)
+- [ ] **Probability Theory**
+  - Basic Probability Rules
+  - Conditional Probability
+  - Bayes' Theorem
+  - Probability Distributions
+  - **📚 Resource**: [MIT OpenCourseWare Probability](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 
-**Day 5-7: Capstone Project** (6 hours)
-- [ ] **🚀 Week 1 Project**: [COVID-19 Data Analysis Dashboard](./Projects/Week1/covid-dashboard/)
-  - **Dataset**: WHO COVID-19 data (included)
-  - **Deliverable**: Interactive Excel dashboard
-  - **Skills Tested**: Statistics, Excel, Data visualization
-  - **⏱️ Deadline**: Sunday 11:59 PM
-  - **📋 Rubric**: [Project Grading Criteria](./Projects/Week1/rubric.md)
+#### **Week 3-4: Excel Mastery**
+- [ ] **Basic Excel Functions**
+  - VLOOKUP, HLOOKUP, INDEX-MATCH
+  - IF, COUNTIF, SUMIF functions
+  - Date and Time functions
+  - **📚 Resource**: [ExcelJet Free Excel Course](https://exceljet.net/excel-course)
+  - **📝 Notes**: [Excel Function Reference](./01-Foundation/02-Excel/)
 
----
+- [ ] **Advanced Excel**
+  - Pivot Tables and Pivot Charts
+  - Data Validation and Conditional Formatting
+  - Macros and VBA basics
+  - Power Query for data transformation
+  - **🎯 Project**: [Sales Analysis Dashboard in Excel](./Projects/02-Excel-Sales-Dashboard/)
 
-### **Week 2: SQL Fundamentals** 🗄️
-**⏱️ Time Allocation**: 20 hours total
-
-#### **Daily Learning Plan**
-**Day 8-10: SQL Basics** (9 hours)
-- [ ] **Day 8 (3 hours)**: SQL Setup & Basic Queries
-  - Install MySQL, basic SELECT statements
-  - **📹 Video**: [SQL in 60 Minutes](https://www.youtube.com/watch?v=HXV3zeQKqGY)
-  - **🎯 Practice**: [50 Basic SQL Queries](./Challenges/Week2/sql-basics-50.md)
-- [ ] **Day 9 (3 hours)**: Filtering & Sorting
-  - WHERE, ORDER BY, GROUP BY, HAVING
-  - **📁 Dataset**: [Northwind Database](./Datasets/Week2/northwind.sql)
-- [ ] **Day 10 (3 hours)**: Aggregate Functions
-  - COUNT, SUM, AVG, MIN, MAX
-  - **✅ Assessment**: [SQL Basics Quiz](./Assessments/Week2/sql-basics-quiz.md)
-
-**Day 11-13: Advanced SQL** (9 hours)
-- [ ] **Day 11 (3 hours)**: JOINs Mastery
-  - INNER, LEFT, RIGHT, FULL OUTER joins
-  - **🎯 Challenge**: [Join the Data Challenge](./Challenges/Week2/join-challenge.md)
-- [ ] **Day 12 (3 hours)**: Subqueries & CTEs
-  - Nested queries, Common Table Expressions
-  - **📹 Video**: [Advanced SQL Concepts](https://www.youtube.com/watch?v=2Fn0WAyZV0E)
-- [ ] **Day 13 (3 hours)**: Window Functions
-  - ROW_NUMBER, RANK, LAG/LEAD
-  - **✅ Assessment**: [Advanced SQL Test](./Assessments/Week2/advanced-sql-test.md)
-
-**Day 14: Week 2 Project** (2 hours)
-- [ ] **🚀 Week 2 Project**: [E-commerce Database Analysis](./Projects/Week2/ecommerce-analysis/)
-  - **Challenge**: Analyze customer behavior, sales trends
-  - **Deliverable**: SQL report with insights
-  - **📊 Bonus**: Create executive summary
+#### **Week 5-6: Data Fundamentals**
+- [ ] **Data Types and Structures**
+- [ ] **Data Quality Assessment**
+- [ ] **Basic Data Cleaning Techniques**
+- [ ] **Introduction to Databases**
+- **🎯 Project**: [Data Quality Assessment Report](./Projects/03-Data-Quality-Assessment/)
 
 ---
 
-### **Week 3: Python for Data Analysis** 🐍
-**⏱️ Time Allocation**: 22 hours total
+### **Phase 2: Programming & SQL** 🐍
+*Duration: 6-8 weeks*
 
-#### **Daily Learning Plan**
-**Day 15-17: Python Fundamentals** (9 hours)
-- [ ] **Day 15 (3 hours)**: Python Setup & Basics
-  - Anaconda installation, Jupyter notebooks
-  - Variables, data types, control structures
-  - **🎯 Practice**: [Python Fundamentals Exercises](./Challenges/Week3/python-basics.ipynb)
-- [ ] **Day 16 (3 hours)**: Functions & Libraries
-  - Writing functions, importing libraries
-  - **📹 Video**: [Python for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
-- [ ] **Day 17 (3 hours)**: File Handling & Error Management
-  - Reading CSV files, exception handling
-  - **✅ Assessment**: [Python Fundamentals Quiz](./Assessments/Week3/python-quiz.md)
+#### **Week 7-9: Python Fundamentals**
+- [ ] **Python Basics**
+  - Variables, Data Types, Control Structures
+  - Functions and Object-Oriented Programming
+  - Error Handling and File I/O
+  - **📚 Resource**: [Python.org Tutorial](https://docs.python.org/3/tutorial/)
+  - **📝 Notes**: [Python for Data Analysis](./02-Programming/01-Python-Basics/)
 
-**Day 18-20: Data Analysis Libraries** (11 hours)
-- [ ] **Day 18 (4 hours)**: NumPy Mastery
-  - Arrays, mathematical operations, broadcasting
-  - **📁 Dataset**: [Stock Prices Data](./Datasets/Week3/stock-prices.csv)
-  - **🎯 Practice**: [NumPy Challenges](./Challenges/Week3/numpy-challenges.ipynb)
-- [ ] **Day 19 (4 hours)**: Pandas Deep Dive
-  - DataFrames, data manipulation, groupby operations
-  - **📹 Video**: [Pandas Complete Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)
-- [ ] **Day 20 (3 hours)**: Data Visualization
-  - Matplotlib, Seaborn basics
-  - **✅ Assessment**: [Pandas & Visualization Test](./Assessments/Week3/pandas-test.md)
+- [ ] **Python Libraries for Data Analysis**
+  - **NumPy**: Numerical computing and arrays
+  - **Pandas**: Data manipulation and analysis
+  - **Matplotlib**: Basic plotting and visualization
+  - **Seaborn**: Statistical data visualization
+  - **📚 Resource**: [Pandas Documentation](https://pandas.pydata.org/docs/user_guide/)
+  - **🎯 Project**: [COVID-19 Data Analysis with Python](./Projects/04-COVID-Analysis-Python/)
 
-**Day 21: Week 3 Project** (2 hours)
-- [ ] **🚀 Week 3 Project**: [Netflix Data Analysis](./Projects/Week3/netflix-analysis/)
-  - **Dataset**: Netflix movies and TV shows
-  - **Skills**: Data cleaning, EDA, visualization
-  - **Deliverable**: Jupyter notebook with insights
+#### **Week 10-12: SQL Mastery**
+- [ ] **SQL Fundamentals**
+  - SELECT statements and filtering
+  - Sorting and grouping data
+  - Aggregate functions (COUNT, SUM, AVG)
+  - **📚 Resource**: [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
+  - **📝 Notes**: [SQL Reference Guide](./02-Programming/02-SQL/)
 
----
+- [ ] **Advanced SQL**
+  - JOINs (INNER, LEFT, RIGHT, FULL OUTER)
+  - Subqueries and CTEs
+  - Window functions (ROW_NUMBER, RANK, LAG/LEAD)
+  - Stored procedures and functions
+  - **📚 Resource**: [SQLBolt Interactive Tutorial](https://sqlbolt.com/)
+  - **🎯 Project**: [E-commerce Database Analysis](./Projects/05-Ecommerce-SQL-Analysis/)
 
-### **Week 4: Data Cleaning & Wrangling** 🧹
-**⏱️ Time Allocation**: 18 hours total
-
-#### **Daily Learning Plan**
-**Day 22-24: Data Cleaning Mastery** (12 hours)
-- [ ] **Day 22 (4 hours)**: Data Quality Assessment
-  - Missing data patterns, outlier detection
-  - **📁 Dataset**: [Messy Real Estate Data](./Datasets/Week4/messy-real-estate.csv)
-  - **🎯 Challenge**: [Data Quality Checklist](./Challenges/Week4/data-quality-checklist.md)
-- [ ] **Day 23 (4 hours)**: Data Cleaning Techniques
-  - Handling missing values, data transformation
-  - **📹 Video**: [Data Cleaning with Pandas](https://www.youtube.com/watch?v=bDhvCp3_lYw)
-- [ ] **Day 24 (4 hours)**: Feature Engineering
-  - Creating new variables, encoding categorical data
-  - **✅ Assessment**: [Data Wrangling Quiz](./Assessments/Week4/data-wrangling-quiz.md)
-
-**Day 25-27: Advanced Techniques** (4 hours)
-- [ ] **Day 25 (2 hours)**: Web Scraping Basics
-  - BeautifulSoup, requests library
-  - **🎯 Practice**: [Scrape Job Listings](./Challenges/Week4/web-scraping-jobs.ipynb)
-- [ ] **Day 26-27 (2 hours)**: APIs & Data Collection
-  - REST APIs, JSON handling
-  - **📹 Video**: [Working with APIs](https://www.youtube.com/watch?v=GZvSYJDk-us)
-
-**Day 28: Week 4 Project** (2 hours)
-- [ ] **🚀 Week 4 Project**: [Real Estate Market Analysis](./Projects/Week4/real-estate-cleaning/)
-  - **Challenge**: Clean and analyze housing market data
-  - **Skills**: Data cleaning, feature engineering, insights
+#### **Week 13-14: Data Wrangling**
+- [ ] **Data Cleaning with Python**
+- [ ] **Handling Missing Data**
+- [ ] **Data Transformation Techniques**
+- [ ] **Web Scraping Basics**
+- **🎯 Project**: [Real Estate Data Cleaning Project](./Projects/06-Real-Estate-Data-Cleaning/)
 
 ---
 
-### **Week 5: Business Intelligence & Tableau** 📊
-**⏱️ Time Allocation**: 20 hours total
+### **Phase 3: Visualization & Business Intelligence** 📊
+*Duration: 4-6 weeks*
 
-#### **Daily Learning Plan**
-**Day 29-31: Tableau Fundamentals** (12 hours)
-- [ ] **Day 29 (4 hours)**: Tableau Setup & Basics
-  - Tableau Public installation, interface overview
-  - Connecting data sources, basic visualizations
-  - **📹 Video**: [Tableau in 2 Hours](https://www.youtube.com/watch?v=jEgVto5QME8)
-- [ ] **Day 30 (4 hours)**: Advanced Charts & Calculations
-  - Custom calculations, parameters, sets
-  - **📁 Dataset**: [Superstore Sales Data](./Datasets/Week5/superstore.csv)
-- [ ] **Day 31 (4 hours)**: Dashboard Design
-  - Layout, interactivity, best practices
-  - **✅ Assessment**: [Tableau Skills Test](./Assessments/Week5/tableau-test.md)
+#### **Week 15-16: Tableau Mastery**
+- [ ] **Tableau Fundamentals**
+  - Connecting to data sources
+  - Creating basic charts and graphs
+  - Calculated fields and parameters
+  - **📚 Resource**: [Tableau Public Training](https://public.tableau.com/en-us/s/resources)
+  - **📝 Notes**: [Tableau Best Practices](./03-Visualization/01-Tableau/)
 
-**Day 32-34: Dashboard Mastery** (6 hours)
-- [ ] **Day 32 (2 hours)**: Interactive Features
-  - Filters, actions, drill-down capabilities
-  - **🎯 Challenge**: [Interactive Dashboard Challenge](./Challenges/Week5/interactive-dashboard.md)
-- [ ] **Day 33 (2 hours)**: Performance Optimization
-  - Data source optimization, extracts vs live connections
-- [ ] **Day 34 (2 hours)**: Publishing & Sharing
-  - Tableau Public, embedding dashboards
+- [ ] **Advanced Tableau**
+  - Dashboard design principles
+  - Interactive dashboards and filters
+  - Tableau calculations and table calculations
+  - Publishing to Tableau Public
+  - **🎯 Project**: [Superstore Sales Dashboard](./Projects/07-Superstore-Tableau-Dashboard/)
 
-**Day 35: Week 5 Project** (2 hours)
-- [ ] **🚀 Week 5 Project**: [Global COVID-19 Dashboard](./Projects/Week5/covid-dashboard/)
-  - **Dataset**: Johns Hopkins COVID data
-  - **Deliverable**: Interactive Tableau dashboard
-  - **Publish**: Share on Tableau Public
+#### **Week 17-18: Power BI**
+- [ ] **Power BI Fundamentals**
+  - Power BI Desktop interface
+  - Data modeling and relationships
+  - DAX formulas and measures
+  - **📚 Resource**: [Microsoft Learn Power BI](https://docs.microsoft.com/en-us/learn/powerplatform/power-bi/)
 
----
+- [ ] **Power BI Advanced**
+  - Custom visuals and formatting
+  - Power Query for data transformation
+  - Row-level security
+  - **🎯 Project**: [HR Analytics Dashboard](./Projects/08-HR-Analytics-PowerBI/)
 
-### **Week 6: Power BI & Advanced Analytics** 💼
-**⏱️ Time Allocation**: 20 hours total
-
-#### **Daily Learning Plan**
-**Day 36-38: Power BI Mastery** (12 hours)
-- [ ] **Day 36 (4 hours)**: Power BI Setup & Basics
-  - Power BI Desktop installation, data modeling
-  - **📹 Video**: [Power BI Full Course](https://www.youtube.com/watch?v=AGrl-H87pRU)
-- [ ] **Day 37 (4 hours)**: DAX Formulas & Measures
-  - Calculated columns, measures, time intelligence
-  - **📁 Dataset**: [HR Analytics Data](./Datasets/Week6/hr-analytics.csv)
-- [ ] **Day 38 (4 hours)**: Report Design & Visualization
-  - Custom visuals, formatting, mobile layout
-  - **✅ Assessment**: [Power BI DAX Quiz](./Assessments/Week6/powerbi-dax-quiz.md)
-
-**Day 39-41: Advanced Analytics** (6 hours)
-- [ ] **Day 39 (2 hours)**: Statistical Analysis in Python
-  - Hypothesis testing, correlation analysis
-  - **🎯 Challenge**: [A/B Testing Analysis](./Challenges/Week6/ab-testing.ipynb)
-- [ ] **Day 40 (2 hours)**: Machine Learning Basics
-  - Regression, classification with scikit-learn
-  - **📹 Video**: [ML for Data Analysts](https://www.youtube.com/watch?v=7eh4d6sabA0)
-- [ ] **Day 41 (2 hours)**: Predictive Analytics
-  - Time series forecasting, trend analysis
-
-**Day 42: Week 6 Project** (2 hours)
-- [ ] **🚀 Week 6 Project**: [HR Analytics Dashboard](./Projects/Week6/hr-dashboard/)
-  - **Dataset**: Employee performance and retention data
-  - **Tools**: Power BI + Python for advanced analytics
-  - **Deliverable**: Executive presentation
+#### **Week 19-20: Data Storytelling**
+- [ ] **Visualization Best Practices**
+- [ ] **Color Theory and Design Principles**
+- [ ] **Presenting Data to Stakeholders**
+- [ ] **Creating Executive Summaries**
+- **🎯 Project**: [Business Performance Story](./Projects/09-Business-Performance-Story/)
 
 ---
 
-### **Week 7: Portfolio Development & Storytelling** 🎨
-**⏱️ Time Allocation**: 18 hours total
+### **Phase 4: Advanced Analytics & Career** 🚀
+*Duration: 4-6 weeks*
 
-#### **Daily Learning Plan**
-**Day 43-45: Data Storytelling** (12 hours)
-- [ ] **Day 43 (4 hours)**: Storytelling Principles
-  - Narrative structure, audience analysis
-  - **📹 Video**: [Data Storytelling Masterclass](https://www.youtube.com/watch?v=8EMW7io4rSI)
-  - **📝 Reading**: [Storytelling with Data (Free Chapter)](./Resources/Books/storytelling-with-data-chapter1.pdf)
-- [ ] **Day 44 (4 hours)**: Presentation Design
-  - Slide design, visual hierarchy, color theory
-  - **🎯 Practice**: [Redesign Bad Charts](./Challenges/Week7/chart-makeover.md)
-- [ ] **Day 45 (4 hours)**: Business Communication
-  - Executive summaries, actionable insights
-  - **✅ Assessment**: [Presentation Skills Test](./Assessments/Week7/presentation-test.md)
+#### **Week 21-22: Statistical Analysis**
+- [ ] **Hypothesis Testing**
+  - T-tests, Chi-square tests, ANOVA
+  - P-values and statistical significance
+  - Type I and Type II errors
+  - **📚 Resource**: [StatQuest YouTube Channel](https://www.youtube.com/c/joshstarmer)
+  - **📝 Notes**: [Statistical Testing Guide](./04-Advanced/01-Statistics/)
 
-**Day 46-48: Portfolio Creation** (4 hours)
-- [ ] **Day 46 (2 hours)**: GitHub Portfolio Setup
-  - Repository structure, README optimization
-  - **📋 Template**: [Data Analyst Portfolio Template](./Templates/portfolio-template/)
-- [ ] **Day 47-48 (2 hours)**: Project Documentation
-  - Writing project descriptions, case studies
+- [ ] **A/B Testing**
+  - Experimental design
+  - Sample size calculation
+  - Results interpretation
+  - **🎯 Project**: [Website A/B Test Analysis](./Projects/10-AB-Testing-Analysis/)
 
-**Day 49: Week 7 Project** (2 hours)
-- [ ] **🚀 Week 7 Project**: [Business Case Study Presentation](./Projects/Week7/business-case/)
-  - **Scenario**: Recommend strategy for declining sales
-  - **Deliverable**: 10-slide executive presentation
-  - **Skills**: Storytelling, business communication
+#### **Week 23-24: Machine Learning Basics**
+- [ ] **Introduction to Machine Learning**
+  - Supervised vs Unsupervised learning
+  - Regression and Classification
+  - Model evaluation metrics
+  - **📚 Resource**: [Scikit-learn Documentation](https://scikit-learn.org/stable/tutorial/)
 
----
+- [ ] **Common ML Algorithms**
+  - Linear/Logistic Regression
+  - Decision Trees and Random Forest
+  - K-Means Clustering
+  - **🎯 Project**: [Customer Segmentation with ML](./Projects/11-Customer-Segmentation-ML/)
 
-### **Week 8: Interview Prep & Career Acceleration** 🎯
-**⏱️ Time Allocation**: 16 hours total
-
-#### **Daily Learning Plan**
-**Day 50-52: Technical Interview Prep** (9 hours)
-- [ ] **Day 50 (3 hours)**: SQL Interview Questions
-  - 50 most common SQL interview questions
-  - **🎯 Practice**: [SQL Interview Simulator](./Interview-Prep/SQL/sql-simulator.md)
-  - **⏱️ Timed Practice**: 30 questions in 60 minutes
-- [ ] **Day 51 (3 hours)**: Python & Statistics Questions
-  - Data manipulation challenges, statistical concepts
-  - **📝 Cheat Sheet**: [Python Interview Guide](./Interview-Prep/Python/python-interview-guide.pdf)
-- [ ] **Day 52 (3 hours)**: Case Study Practice
-  - Business problem solving, framework thinking
-  - **✅ Mock Interview**: [Video Case Study](./Interview-Prep/Case-Studies/mock-interview-1.md)
-
-**Day 53-55: Career Strategy** (5 hours)
-- [ ] **Day 53 (2 hours)**: Resume Optimization
-  - ATS-friendly formatting, quantified achievements
-  - **📋 Template**: [Data Analyst Resume Template](./Career-Resources/Resume/da-resume-template.docx)
-- [ ] **Day 54 (2 hours)**: LinkedIn & Networking
-  - Profile optimization, networking strategies
-  - **📝 Guide**: [LinkedIn Optimization Checklist](./Career-Resources/LinkedIn/linkedin-checklist.md)
-- [ ] **Day 55 (1 hour)**: Job Search Strategy
-  - Where to apply, salary negotiation basics
-
-**Day 56: Final Assessment** (2 hours)
-- [ ] **🏆 Final Capstone**: [End-to-End Business Analytics Project](./Projects/Week8/capstone/)
-  - **Duration**: 2 hours (timed assessment)
-  - **Skills Tested**: All 8 weeks of learning
-  - **Format**: Real business scenario with messy data
-  - **Deliverable**: Dashboard + presentation + insights
+#### **Week 25-26: Portfolio & Career Preparation**
+- [ ] **Building Your Portfolio**
+- [ ] **Resume Optimization**
+- [ ] **Interview Preparation**
+- [ ] **Networking Strategies**
+- **🎯 Final Project**: [End-to-End Business Analytics Project](./Projects/12-Capstone-Project/)
 
 ---
 
-## 🧪 **Assessment Checkpoints**
+## 🛠️ **Essential Tools**
 
-### **📊 Weekly Progress Tracker**
-| Week | Skill Focus | Assessment Type | Pass Score | Tools Used |
-|------|-------------|-----------------|------------|------------|
-| **Week 1** | Statistics & Excel | Quiz + Project | 80% | Excel, Statistics |
-| **Week 2** | SQL Fundamentals | Practical Test | 75% | MySQL, SQL |
-| **Week 3** | Python Basics | Coding Challenge | 80% | Python, Pandas |
-| **Week 4** | Data Cleaning | Project Review | 75% | Python, Jupyter |
-| **Week 5** | Tableau | Dashboard Creation | 80% | Tableau Public |
-| **Week 6** | Power BI & Analytics | Report + Analysis | 75% | Power BI, Python |
-| **Week 7** | Storytelling | Presentation | 80% | All tools |
-| **Week 8** | Final Assessment | Capstone Project | 85% | All tools |
+### **📊 Data Analysis & Visualization**
+| Tool | Purpose | Cost | Download Link |
+|------|---------|------|---------------|
+| 📈 **Microsoft Excel** | Data analysis & basic visualization | Free (online) / Paid | [Excel Online](https://office.live.com/start/excel.aspx) |
+| 🐍 **Python (Anaconda)** | Programming & data analysis | Free | [Anaconda Download](https://www.anaconda.com/products/distribution) |
+| 📊 **Tableau Public** | Data visualization & dashboards | Free | [Tableau Public](https://public.tableau.com/) |
+| 💼 **Power BI Desktop** | Business intelligence | Free | [Power BI Desktop](https://powerbi.microsoft.com/desktop/) |
+| 🗄️ **MySQL** | Database management | Free | [MySQL Download](https://dev.mysql.com/downloads/) |
+| 📓 **Jupyter Notebook** | Interactive coding environment | Free | Included with Anaconda |
 
-### **🎯 Skill Level Indicators**
-**After each assessment, you'll receive:**
-- ✅ **Mastery (90-100%)**: Ready to teach others
-- ✅ **Proficient (80-89%)**: Job-ready level
-- ⚠️ **Developing (70-79%)**: Additional practice needed
-- ❌ **Needs Review (<70%)**: Revisit concepts
-
-### **🔄 Feedback Loops**
-- **Daily**: 5-minute reflection journal
-- **Weekly**: Peer review session (optional)
-- **Bi-weekly**: 1-on-1 mentor check-in
-- **Final**: Portfolio review with industry expert
+### **📚 Development Environment**
+- **VS Code**: Free code editor with Python extensions
+- **Git**: Version control for your projects
+- **Google Colab**: Free cloud-based Jupyter environment
 
 ---
 
-## 🚀 **Interactive Projects Portfolio**
+## 📊 **Hands-on Projects**
 
-### **📊 Project Difficulty Levels**
-- 🟢 **Beginner**: Following guided instructions
-- 🟡 **Intermediate**: Semi-guided with challenges
-- 🔴 **Advanced**: Independent problem-solving
-- 🚀 **Expert**: Real-world business scenarios
+### **🟢 Beginner Projects (Weeks 1-8)**
+1. **[Student Performance Analysis](./Projects/01-Student-Grades-Analysis/)**
+   - Tools: Excel, Statistics
+   - Skills: Descriptive statistics, data visualization
 
-### **Week 1-2: Foundation Projects**
-1. **🟢 COVID-19 Analysis Dashboard** (Week 1)
-   - **Tools**: Excel, Statistics
-   - **Skills**: Data visualization, statistical analysis
-   - **Dataset**: [WHO COVID Data](./Datasets/Week1/covid-data.xlsx)
-   - **Time**: 6 hours
-   - **Outcome**: Interactive Excel dashboard
+2. **[Sales Dashboard in Excel](./Projects/02-Excel-Sales-Dashboard/)**
+   - Tools: Excel, Pivot Tables
+   - Skills: Dashboard creation, data summarization
 
-2. **🟡 E-commerce SQL Analysis** (Week 2)
-   - **Tools**: MySQL, SQL
-   - **Skills**: Complex queries, database analysis
-   - **Dataset**: [E-commerce Database](./Datasets/Week2/ecommerce.sql)
-   - **Time**: 2 hours
-   - **Outcome**: Business insights report
+3. **[Data Quality Assessment](./Projects/03-Data-Quality-Assessment/)**
+   - Tools: Excel, Python
+   - Skills: Data profiling, quality metrics
 
-### **Week 3-4: Data Analysis Projects**
-3. **🟡 Netflix Content Analysis** (Week 3)
-   - **Tools**: Python, Pandas, Matplotlib
-   - **Skills**: EDA, data cleaning, visualization
-   - **Dataset**: [Netflix Movies & TV Shows](./Datasets/Week3/netflix.csv)
-   - **Time**: 2 hours
-   - **Outcome**: Jupyter notebook with insights
+4. **[COVID-19 Data Analysis](./Projects/04-COVID-Analysis-Python/)**
+   - Tools: Python, Pandas, Matplotlib
+   - Skills: Data cleaning, time series analysis
 
-4. **🔴 Real Estate Market Analysis** (Week 4)
-   - **Tools**: Python, Advanced cleaning techniques
-   - **Skills**: Data wrangling, feature engineering
-   - **Dataset**: [Messy Housing Data](./Datasets/Week4/housing-messy.csv)
-   - **Time**: 2 hours
-   - **Outcome**: Clean dataset + analysis report
+### **🟡 Intermediate Projects (Weeks 9-16)**
+5. **[E-commerce SQL Analysis](./Projects/05-Ecommerce-SQL-Analysis/)**
+   - Tools: SQL, MySQL
+   - Skills: Complex queries, database design
 
-### **Week 5-6: Business Intelligence Projects**
-5. **🔴 Global COVID Dashboard** (Week 5)
-   - **Tools**: Tableau Public
-   - **Skills**: Interactive dashboards, storytelling
-   - **Dataset**: [Johns Hopkins COVID Data](./Datasets/Week5/covid-global.csv)
-   - **Time**: 2 hours
-   - **Outcome**: Published Tableau dashboard
+6. **[Real Estate Data Cleaning](./Projects/06-Real-Estate-Data-Cleaning/)**
+   - Tools: Python, Pandas
+   - Skills: Data wrangling, feature engineering
 
-6. **🚀 HR Analytics Dashboard** (Week 6)
-   - **Tools**: Power BI, Python (advanced analytics)
-   - **Skills**: DAX, predictive modeling, HR metrics
-   - **Dataset**: [Employee Data](./Datasets/Week6/hr-data.csv)
-   - **Time**: 2 hours
-   - **Outcome**: Executive-ready presentation
+7. **[Superstore Tableau Dashboard](./Projects/07-Superstore-Tableau-Dashboard/)**
+   - Tools: Tableau Public
+   - Skills: Interactive dashboards, storytelling
 
-### **Week 7-8: Advanced Projects**
-7. **🚀 Business Case Study** (Week 7)
-   - **Tools**: All tools integrated
-   - **Skills**: Business communication, strategic thinking
-   - **Scenario**: Declining sales analysis
-   - **Time**: 2 hours
-   - **Outcome**: Executive presentation
+8. **[HR Analytics Power BI](./Projects/08-HR-Analytics-PowerBI/)**
+   - Tools: Power BI Desktop
+   - Skills: DAX formulas, data modeling
 
-8. **🚀 Final Capstone Project** (Week 8)
-   - **Tools**: Full analyst toolkit
-   - **Skills**: End-to-end analysis workflow
-   - **Dataset**: Surprise business scenario
-   - **Time**: 2 hours (timed)
-   - **Outcome**: Complete analysis + recommendations
+### **🔴 Advanced Projects (Weeks 17-24)**
+9. **[Business Performance Story](./Projects/09-Business-Performance-Story/)**
+   - Tools: Multiple visualization tools
+   - Skills: Data storytelling, executive presentations
 
-### **🏆 Portfolio Showcase Format**
-Each project includes:
-- **📋 Business Context**: Real-world scenario
-- **🎯 Objectives**: Clear success criteria
-- **📊 Datasets**: Realistic, messy data
-- **🛠️ Tools Used**: Industry-standard software
-- **📈 Results**: Quantified business impact
-- **🔍 Code Review**: Best practices feedback
-- **📝 Documentation**: Professional write-ups
+10. **[A/B Testing Analysis](./Projects/10-AB-Testing-Analysis/)**
+    - Tools: Python, Statistics
+    - Skills: Experimental design, statistical testing
+
+11. **[Customer Segmentation ML](./Projects/11-Customer-Segmentation-ML/)**
+    - Tools: Python, Scikit-learn
+    - Skills: Machine learning, clustering
+
+12. **[Capstone: End-to-End Analytics](./Projects/12-Capstone-Project/)**
+    - Tools: All tools combined
+    - Skills: Complete data analysis workflow
 
 ---
 
-## 📚 **Curated Resources**
+## 📚 **Free Resources**
 
-### **📹 Video Learning Paths**
-| Week | Topic | Channel | Duration | Difficulty |
-|------|-------|---------|----------|------------|
-| 1 | Statistics | StatQuest | 2 hours | Beginner |
-| 1 | Excel | ExcelIsFun | 3 hours | Beginner |
-| 2 | SQL | Programming with Mosh | 4 hours | Beginner |
-| 3 | Python | Corey Schafer | 5 hours | Beginner |
-| 4 | Pandas | Data School | 3 hours | Intermediate |
-| 5 | Tableau | Tableau Tim | 4 hours | Intermediate |
-| 6 | Power BI | Guy in a Cube | 3 hours | Intermediate |
-| 7 | Storytelling | Storytelling with Data | 2 hours | Advanced |
+### **📖 Online Courses**
+| Platform | Course | Duration | Certificate |
+|----------|--------|----------|-------------|
+| **Coursera** | [IBM Data Science Professional](https://www.coursera.org/professional-certificates/ibm-data-science) | 6-8 months | Free audit |
+| **edX** | [MIT Introduction to Data Science](https://www.edx.org/course/introduction-to-data-science-in-python) | 6 weeks | Free audit |
+| **Kaggle Learn** | [Complete Data Science Micro-Courses](https://www.kaggle.com/learn) | Self-paced | Free |
+| **freeCodeCamp** | [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | 300 hours | Free |
 
-### **📖 Essential Reading Materials**
-**Week 1-2: Foundation**
-- 📕 [Statistics in Plain English (Free Chapter)](./Resources/Books/statistics-plain-english-ch1.pdf)
-- 📘 [Excel Power User Guide](./Resources/Books/excel-power-user.pdf)
-- 📗 [SQL Cheat Sheet Collection](./Resources/Cheat-Sheets/sql-complete.pdf)
+### **📺 YouTube Channels**
+- **[StatQuest](https://www.youtube.com/c/joshstarmer)**: Statistics explained simply
+- **[3Blue1Brown](https://www.youtube.com/c/3blue1brown)**: Mathematics and statistics concepts
+- **[Corey Schafer](https://www.youtube.com/c/Coreyms)**: Python programming tutorials
+- **[Ken Jee](https://www.youtube.com/c/KenJee1)**: Data science career advice
+- **[Alex The Analyst](https://www.youtube.com/c/AlexTheAnalyst)**: Data analyst tutorials
 
-**Week 3-4: Programming**
-- 📕 [Python for Data Analysis (Free Chapters)](./Resources/Books/python-data-analysis.pdf)
-- 📘 [Pandas Documentation Highlights](./Resources/Books/pandas-essentials.pdf)
-- 📗 [Data Cleaning Cookbook](./Resources/Books/data-cleaning-cookbook.pdf)
+### **📊 Practice Datasets**
+- **[Kaggle Datasets](https://www.kaggle.com/datasets)**: Thousands of real-world datasets
+- **[UCI ML Repository](https://archive.ics.uci.edu/ml/index.php)**: Classic machine learning datasets
+- **[Google Dataset Search](https://datasetsearch.research.google.com/)**: Find datasets across the web
+- **[Our World in Data](https://ourworldindata.org/)**: Global development data
+- **[Government Open Data](https://www.data.gov/)**: US government datasets
 
-**Week 5-6: Business Intelligence**
-- 📕 [Tableau Best Practices Guide](./Resources/Books/tableau-best-practices.pdf)
-- 📘 [Power BI DAX Reference](./Resources/Books/powerbi-dax-reference.pdf)
-- 📗 [Dashboard Design Principles](./Resources/Books/dashboard-design.pdf)
-
-**Week 7-8: Advanced**
-- 📕 [Storytelling with Data (Sample Chapters)](./Resources/Books/storytelling-sample.pdf)
-- 📘 [Data Analyst Interview Guide](./Resources/Books/interview-guide.pdf)
-- 📗 [Business Communication for Analysts](./Resources/Books/business-communication.pdf)
-
-### **🗂️ Interactive Learning Tools**
-- **[SQL Fiddle](http://sqlfiddle.com/)**: Practice SQL queries online
-- **[Python Tutor](http://pythontutor.com/)**: Visualize code execution
-- **[Tableau Public Gallery](https://public.tableau.com/gallery/)**: Inspiration and examples
-- **[Kaggle Learn](https://www.kaggle.com/learn)**: Micro-courses with certificates
-- **[Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/)**: Interactive SQL learning
-
-### **📊 Practice Datasets Collection**
-**Business Intelligence Datasets**
-- **Sales & Marketing**: Superstore, E-commerce, Digital marketing
-- **Finance**: Stock prices, Banking, Insurance claims
-- **Healthcare**: Patient data, Drug trials, COVID-19
-- **HR & Operations**: Employee data, Supply chain, Manufacturing
-- **Social Media**: Twitter sentiment, YouTube analytics, Social trends
-
-**Data Quality Levels**
-- 🟢 **Clean**: Ready for analysis (beginner practice)
-- 🟡 **Realistic**: Typical business data (intermediate)
-- 🔴 **Messy**: Real-world chaos (advanced practice)
+### **📚 Free Books & Documentation**
+- **[Python for Data Analysis (Online)](https://wesmckinney.com/book/)** by Wes McKinney
+- **[R for Data Science (Free Online)](https://r4ds.had.co.nz/)** by Hadley Wickham
+- **[The Elements of Statistical Learning (PDF)](https://web.stanford.edu/~hastie/ElemStatLearn/)**
+- **[Pandas Documentation](https://pandas.pydata.org/docs/)**
+- **[SQL Tutorial](https://www.w3schools.com/sql/)**
 
 ---
 
-## 💼 **Career Acceleration Track**
+## 🏆 **Free Certifications**
 
-### **💰 Salary Progression Timeline**
-| Month | Role Level | Avg Salary (USD) | Key Skills | Job Titles |
-|-------|------------|------------------|------------|------------|
-| **Month 3** | Entry Level | $45K - $55K | Excel, SQL, Tableau | Junior Analyst, Data Intern |
-| **Month 6** | Associate | $55K - $70K | Python, Power BI, Statistics | Data Analyst, Business Analyst |
-| **Month 12** | Mid-Level | $70K - $85K | Advanced Analytics, ML | Senior Analyst, BI Analyst |
-| **Month 18** | Senior | $85K - $110K | Leadership, Strategy | Lead Analyst, Analytics Manager |
-| **Month 24** | Principal | $110K - $150K | Business Acumen, Team Management | Principal Analyst, Director |
+### **🎓 Professional Certifications**
+1. **[Google Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)**
+   - Duration: 3-6 months
+   - Cost: Free audit, $39/month for certificate
+   - Skills: Excel, SQL, R, Tableau
 
-### **🎯 Job Application Strategy**
-**Week 6-8 Job Prep Timeline**
-- **Week 6**: Complete portfolio projects, optimize LinkedIn
-- **Week 7**: Apply to 5 companies, practice interviews
-- **Week 8**: Follow up applications, negotiate offers
+2. **[IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)**
+   - Duration: 6-10 months
+   - Cost: Free audit available
+   - Skills: Python, SQL, Machine Learning
 
-### **📞 Interview Preparation Toolkit**
-**Technical Interview Components**
-1. **SQL Live Coding** (30 minutes)
-   - 5 progressively difficult queries
-   - Business context for each problem
-   - **Practice**: [SQL Interview Simulator](./Interview-Prep/SQL/)
+3. **[Microsoft Azure Data Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/)**
+   - Duration: 2-3 months
+   - Cost: Free learning path, $99 exam
+   - Skills: Azure, Data concepts, Analytics
 
-2. **Python Data Analysis** (45 minutes)
-   - Data cleaning and exploration task
-   - Jupyter notebook walkthrough
-   - **Practice**: [Python Challenges](./Interview-Prep/Python/)
-
-3. **Business Case Study** (60 minutes)
-   - Framework-based problem solving
-   - Data interpretation and recommendations
-   - **Practice**: [Case Study Library](./Interview-Prep/Case-Studies/)
-
-4. **Dashboard Review** (30 minutes)
-   - Portfolio project discussion
-   - Technical decisions explanation
-   - **Prep**: [Portfolio Presentation Guide](./Interview-Prep/Portfolio/)
-
-### **💡 Networking & Personal Branding**
-**LinkedIn Optimization Checklist**
-- [ ] Professional headshot with data visualizations background
-- [ ] Headline: "Data Analyst | Turning Data into Actionable Insights"
-- [ ] Summary: 3-paragraph story (background, skills, goals)
-- [ ] Featured section: Top 3 portfolio projects
-- [ ] Experience: Quantified achievements with data impact
-- [ ] Skills: Endorsed by 10+ connections
-- [ ] Recommendations: 2-3 from colleagues/mentors
-
-**Content Strategy**
-- **Week 1-4**: Share learning journey, insights from projects
-- **Week 5-8**: Post portfolio projects, industry observations
-- **Ongoing**: Comment on industry leader posts, share articles
-
-### **🤝 Mentorship & Community**
-**Weekly Office Hours Schedule**
-- **Mondays 7PM EST**: SQL Q&A with Database Experts
-- **Wednesdays 7PM EST**: Python Help with Data Scientists
-- **Fridays 7PM EST**: Career Advice with Industry Professionals
-- **Saturdays 2PM EST**: Portfolio Review Sessions
-
-**Peer Learning Groups**
-- **Study Buddy System**: Matched with accountability partner
-- **Project Teams**: Collaborate on advanced projects
-- **Mock Interview Practice**: Bi-weekly practice sessions
-- **Industry Mentorship**: Quarterly mentor matching
+### **🆓 Completely Free Certifications**
+- **[Kaggle Learn Certificates](https://www.kaggle.com/learn)**: Python, SQL, Machine Learning
+- **[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)**: Power BI, Excel, Azure
+- **[Google Analytics Academy](https://analytics.google.com/analytics/academy/)**: Google Analytics
+- **[HubSpot Data Analysis](https://academy.hubspot.com/)**: Marketing analytics
 
 ---
 
-## 🏆 **Certification & Achievement System**
+## 💼 **Career Guidance**
 
-### **🎖️ Skill Badges**
-Earn digital badges for mastering each skill area:
+### **💰 Salary Expectations (USD)**
+| Level | Experience | Salary Range | Skills Required |
+|-------|------------|--------------|-----------------|
+| **Entry Level** | 0-2 years | $45,000 - $65,000 | Excel, SQL, Basic visualization |
+| **Mid Level** | 2-5 years | $65,000 - $85,000 | Python/R, Advanced SQL, Tableau/Power BI |
+| **Senior Level** | 5+ years | $85,000 - $120,000 | Machine Learning, Leadership, Domain expertise |
+| **Lead/Manager** | 7+ years | $100,000 - $150,000+ | Strategy, Team management, Business acumen |
 
-**Week 1-2 Badges**
-- 🏅 **Statistics Scholar**: Master descriptive and inferential statistics
-- 🏅 **Excel Expert**: Advanced formulas, pivot tables, and dashboards
-- 🏅 **SQL Specialist**: Complex queries, joins, and database design
+### **🎯 Job Titles to Target**
+- Data Analyst
+- Business Analyst
+- Marketing Analyst
+- Financial Analyst
+- Operations Analyst
+- Business Intelligence Analyst
+- Data Scientist (with ML skills)
+- Analytics Consultant
 
-**Week 3-4 Badges**
-- 🏅 **Python Programmer**: Data manipulation with Pandas and NumPy
-- 🏅 **Data Cleaner**: Advanced data wrangling and quality assessment
-- 🏅 **Visualization Artist**: Effective charts and graphs with Python
+### **📝 Resume Templates**
+- **[Data Analyst Resume Template](./Career-Resources/Resume-Templates/)**
+- **[Cover Letter Examples](./Career-Resources/Cover-Letters/)**
+- **[Portfolio Guidelines](./Career-Resources/Portfolio-Guide/)**
 
-**Week 5-6 Badges**
-- 🏅 **Tableau Master**: Interactive dashboards and advanced features
-- 🏅 **Power BI Pro**: DAX formulas and business intelligence reports
-- 🏅 **Analytics Strategist**: Advanced analytics and predictive modeling
-
-**Week 7-8 Badges**
-- 🏅 **Data Storyteller**: Compelling presentations and executive communication
-- 🏅 **Portfolio Professional**: Complete project showcase and documentation
-- 🏅 **Interview Ace**: Technical and behavioral interview mastery
-
-### **🏆 Final Certifications**
-**Upon Completion:**
-- 📜 **Certified Data Analyst** (Complete 8-week program)
-- 📜 **Portfolio Certified** (5+ professional projects)
-- 📜 **Interview Ready** (Pass mock interview assessment)
-- 📜 **Industry Endorsed** (Mentor recommendation)
-
-### **🌟 Alumni Network Benefits**
-- **Job Referral Network**: 500+ alumni in data roles
-- **Continued Learning**: Advanced workshops and masterclasses
-- **Salary Surveys**: Annual compensation benchmarking
-- **Career Advancement**: Leadership and management training
+### **🤝 Networking & Interview Prep**
+- **[Common Interview Questions](./Career-Resources/Interview-Prep/)**
+- **[Technical Challenges](./Career-Resources/Technical-Challenges/)**
+- **[Salary Negotiation Guide](./Career-Resources/Salary-Negotiation/)**
+- **[LinkedIn Optimization](./Career-Resources/LinkedIn-Guide/)**
 
 ---
 
-## 📊 **Success Metrics & Analytics**
+## 🗓️ **Monthly Learning Schedule**
 
-### **📈 Program Analytics Dashboard**
-Track your progress with real-time metrics:
+### **Month 1: Foundation**
+- **Week 1**: Statistics fundamentals + Excel basics
+- **Week 2**: Probability + Advanced Excel
+- **Week 3**: Data concepts + Excel projects
+- **Week 4**: Review + First portfolio project
 
-**Learning Progress**
-- ⏱️ **Hours Completed**: 156/160 target hours
-- 📚 **Concepts Mastered**: 47/52 core concepts
-- 🎯 **Projects Finished**: 8/8 required projects
-- ✅ **Assessments Passed**: 7/8 skill checkpoints
+### **Month 2: Programming Basics**
+- **Week 5**: Python fundamentals
+- **Week 6**: NumPy + Pandas basics
+- **Week 7**: Data visualization with Matplotlib
+- **Week 8**: Python project + SQL introduction
 
-**Skill Development**
-- 📊 **Technical Skills**: 85% proficiency average
-- 💼 **Business Skills**: 78% proficiency average
-- 🗣️ **Communication**: 82% proficiency average
-- 🧠 **Problem Solving**: 89% proficiency average
+### **Month 3: SQL & Data Wrangling**
+- **Week 9**: SQL fundamentals + Basic queries
+- **Week 10**: Advanced SQL + Joins
+- **Week 11**: Data cleaning with Python
+- **Week 12**: SQL project + Data wrangling project
 
-**Career Readiness**
-- 📝 **Resume Score**: 92/100 (ATS optimized)
-- 💼 **Portfolio Quality**: 88/100 (industry standard)
-- 🎤 **Interview Performance**: 85% pass rate
-- 🤝 **Network Strength**: 50+ relevant connections
+### **Month 4: Visualization Tools**
+- **Week 13**: Tableau fundamentals
+- **Week 14**: Advanced Tableau + Dashboard project
+- **Week 15**: Power BI fundamentals
+- **Week 16**: Power BI project + Data storytelling
 
-### **🎯 Outcome Tracking**
-**3-Month Post-Graduation Survey Results:**
-- 📊 **Job Placement Rate**: 87% within 3 months
-- 💰 **Average Salary Increase**: 65% for career changers
-- 🚀 **Promotion Rate**: 34% received promotion within 6 months
-- ⭐ **Satisfaction Score**: 4.7/5.0 program rating
+### **Month 5: Advanced Analytics**
+- **Week 17**: Statistical testing + A/B testing
+- **Week 18**: Machine learning basics
+- **Week 19**: ML project + Advanced analytics
+- **Week 20**: Business case studies
 
-### **📋 Quality Assurance**
-**Continuous Improvement Process:**
-- 📊 **Weekly Feedback**: Student satisfaction surveys
-- 🔄 **Monthly Updates**: Content refresh based on industry trends
-- 👥 **Quarterly Reviews**: Employer feedback on graduate performance
-- 📈 **Annual Audit**: Complete curriculum review and enhancement
-
----
-
-## 🤝 **Community & Support System**
-
-### **💬 Learning Community Platforms**
-**Primary Communication Hub**
-- 🗨️ **Discord Server**: [Data Analysts United](https://discord.gg/data-analysts-2025)
-  - 24/7 peer support and Q&A
-  - Study groups and accountability partners
-  - Industry expert office hours
-  - Job board and career opportunities
-
-**Additional Communities**
-- 📱 **Slack Workspace**: Professional networking and project collaboration
-- 🐦 **Twitter Community**: #DataAnalyst2025 hashtag for daily updates
-- 💼 **LinkedIn Group**: [Data Analyst Career Hub](https://linkedin.com/groups/data-analyst-career)
-- 🧵 **Reddit**: r/DataAnalystRoadmap for discussions and AMAs
-
-### **👨‍🏫 Expert Support Team**
-**Instructional Team**
-- **Sarah Chen**: Senior Data Scientist at Google (Python & ML Mentor)
-- **Mike Rodriguez**: BI Director at Microsoft (Tableau & Power BI Expert)
-- **Dr. Lisa Wang**: Statistics Professor at MIT (Statistics & Research Methods)
-- **James Thompson**: SQL Architect at Amazon (Database & SQL Mentor)
-
-**Industry Mentors** (50+ professionals)
-- Data Analysts from Fortune 500 companies
-- Startup analytics leaders
-- Freelance consultants and entrepreneurs
-- Career transition specialists
-
-### **🆘 Getting Help Fast**
-**Response Time Guarantees**
-- 🚨 **Technical Issues**: < 2 hours during business hours
-- ❓ **Learning Questions**: < 4 hours via Discord/Slack
-- 📋 **Project Reviews**: < 24 hours for feedback
-- 💼 **Career Guidance**: < 48 hours for mentor matching
-
-**Help Channels**
-1. **Self-Service**: FAQ, troubleshooting guides, video tutorials
-2. **Peer Support**: Discord channels, study groups, forums
-3. **Expert Help**: Office hours, 1-on-1 sessions, code reviews
-4. **Emergency Support**: Urgent technical or career issues
+### **Month 6: Portfolio & Career**
+- **Week 21**: Portfolio development
+- **Week 22**: Capstone project
+- **Week 23**: Resume + Interview prep
+- **Week 24**: Job applications + Networking
 
 ---
 
-## 🔄 **Continuous Learning & Updates**
+## 📈 **Progress Tracking**
 
-### **📅 Content Freshness Schedule**
-**Monthly Updates**
-- 🔄 **Dataset Refresh**: New real-world datasets added
-- 📊 **Tool Updates**: Latest software versions and features
-- 💼 **Industry Trends**: Current market demands and job requirements
-- 🎯 **Challenge Updates**: New practice problems and assessments
+### **🎯 Milestones**
+- [ ] **Month 1**: Complete foundation phase, build first Excel dashboard
+- [ ] **Month 2**: Master Python basics, complete COVID analysis project
+- [ ] **Month 3**: Write complex SQL queries, clean real-world datasets
+- [ ] **Month 4**: Create professional Tableau dashboard, master Power BI
+- [ ] **Month 5**: Perform statistical analysis, build ML model
+- [ ] **Month 6**: Complete portfolio, apply for first data analyst role
 
-**Quarterly Enhancements**
-- 📚 **Curriculum Review**: Based on student feedback and industry changes
-- 🏆 **Certification Updates**: Industry alignment and accreditation
-- 👥 **Mentor Network**: New expert additions and specializations
-- 📈 **Success Metrics**: Performance tracking and improvement
+### **📊 Self-Assessment Checklist**
+**Excel Skills:**
+- [ ] Can create pivot tables and charts
+- [ ] Comfortable with VLOOKUP and INDEX-MATCH
+- [ ] Can clean and organize data effectively
 
-### **🚀 Advanced Learning Paths**
-**Post-Graduation Specializations**
-1. **Machine Learning Engineer Track** (3 months)
-   - Advanced ML algorithms and deployment
-   - MLOps and production systems
-   - Cloud platforms (AWS, Azure, GCP)
+**Python Skills:**
+- [ ] Can manipulate data with Pandas
+- [ ] Create visualizations with Matplotlib/Seaborn
+- [ ] Handle data cleaning and preprocessing
 
-2. **Data Science Specialist Track** (4 months)
-   - Advanced statistics and experimentation
-   - Deep learning and neural networks
-   - Research methods and publication
+**SQL Skills:**
+- [ ] Write complex SELECT statements
+- [ ] Use JOINs to combine tables
+- [ ] Apply window functions for advanced analysis
 
-3. **Business Intelligence Leader Track** (3 months)
-   - Executive dashboard design
-   - Data strategy and governance
-   - Team leadership and management
+**Visualization Skills:**
+- [ ] Create interactive Tableau dashboards
+- [ ] Build Power BI reports with DAX
+- [ ] Tell compelling stories with data
 
-4. **Analytics Consultant Track** (2 months)
-   - Client communication and project management
-   - Industry-specific analytics (healthcare, finance, retail)
-   - Business development and pricing
-
-### **🌐 Global Community Expansion**
-**International Adaptations**
-- 🇪🇺 **European Edition**: GDPR compliance, European datasets
-- 🇦🇺 **Asia-Pacific Edition**: Regional business cases and cultural context
-- 🇺🇸 **Americas Edition**: North and South American market focus
-- 🌍 **Emerging Markets Edition**: Developing economy scenarios
+**Statistics Skills:**
+- [ ] Perform hypothesis testing
+- [ ] Understand statistical significance
+- [ ] Apply A/B testing methodology
 
 ---
 
-## 📞 **Contact & Connect**
+## 🤝 **Community & Support**
 
-### **👨‍💻 Created by Devesh Punjabi**
+### **💬 Join Our Learning Community**
+- **[Discord Server](https://discord.gg/dataanalysts)**: Connect with fellow learners
+- **[Reddit Community](https://reddit.com/r/analytics)**: Ask questions and share projects
+- **[LinkedIn Group](https://linkedin.com/groups/dataanalysts)**: Professional networking
+- **[Slack Workspace](https://dataanalystslearning.slack.com)**: Real-time discussions
 
-<div align="center">
+### **📞 Getting Help**
+- **[FAQ Section](./FAQ.md)**: Common questions and answers
+- **[Troubleshooting Guide](./Troubleshooting.md)**: Technical issues
+- **[Office Hours](./Office-Hours.md)**: Weekly Q&A sessions
+- **[Mentorship Program](./Mentorship.md)**: Get paired with experienced analysts
 
-**🎓 Cybersecurity Student | 🤖 AI Research Enthusiast | 📊 Data Analytics Educator**
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-deveshpunjabi-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/deveshpunjabi)
-[![GitHub](https://img.shields.io/badge/GitHub-deveshpunjabi-black?style=for-the-badge&logo=github)](https://github.com/deveshpunjabi)
-[![Twitter](https://img.shields.io/badge/Twitter-@deveshpunjabi-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/deveshpunjabi)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:devesh.punjabi@example.com)
+## 🌟 **Success Stories**
 
-**📍 Based in India 🇮🇳 | Supporting learners globally 🌍**
+> *"I followed this roadmap religiously for 6 months and landed my first data analyst role at a Fortune 500 company. The projects were exactly what I needed for my portfolio!"* - **Sarah M., Marketing Analyst**
 
-</div>
+> *"The SQL section alone helped me pass 3 technical interviews. The progressive learning approach made complex topics easy to understand."* - **Mike R., Business Analyst**
 
-### **💝 Mission Statement**
-*"Making high-quality data analytics education accessible to everyone, regardless of background or financial situation. Every student deserves the opportunity to transform their career through data."*
+> *"As a career changer from retail, this roadmap gave me the structure I needed. Now I'm earning 40% more as a data analyst!"* - **Jennifer L., Data Analyst**
 
-### **🎯 Personal Learning Philosophy**
-- **🏗️ Build by Doing**: Learn through hands-on projects, not just theory
-- **🌱 Growth Mindset**: Embrace challenges as opportunities to improve
-- **🤝 Community First**: Learn together, succeed together
-- **🎯 Real-World Focus**: Skills that directly translate to job success
-- **💡 Continuous Evolution**: Always updating based on industry changes
+---
 
-### **📊 Repository Statistics**
-<div align="center">
+## 🚀 **What's Next?**
 
-![GitHub Stars](https://img.shields.io/github/stars/deveshpunjabi/Complete-Data-Analyst-Roadmap?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/deveshpunjabi/Complete-Data-Analyst-Roadmap?style=social)
-![GitHub Watchers](https://img.shields.io/github/watchers/deveshpunjabi/Complete-Data-Analyst-Roadmap?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/deveshpunjabi/Complete-Data-Analyst-Roadmap)
-![GitHub Contributors](https://img.shields.io/github/contributors/deveshpunjabi/Complete-Data-Analyst-Roadmap)
+### **After Completing This Roadmap:**
+1. **Specialize in a Domain**: Healthcare, Finance, Marketing, etc.
+2. **Advanced Machine Learning**: Deep learning, NLP, Computer Vision
+3. **Data Engineering**: ETL, Data Pipelines, Cloud Platforms
+4. **Leadership Track**: Team management, Strategy, Consulting
 
-**Last Updated**: August 6, 2025 | **Version**: 2.0 | **Contributors**: 15+ | **Success Stories**: 500+
+### **Advanced Learning Paths:**
+- **[Data Science Roadmap](./Advanced-Paths/Data-Science/)**
+- **[Data Engineering Roadmap](./Advanced-Paths/Data-Engineering/)**
+- **[Business Intelligence Roadmap](./Advanced-Paths/Business-Intelligence/)**
+- **[Analytics Consulting Roadmap](./Advanced-Paths/Consulting/)**
 
-</div>
+---
+
+## 📞 **Connect With Me**
+
+### **Devesh Punjabi**
+
+<p align="left">
+<a href="https://linkedin.com/in/deveshpunjabi" target="blank"><img align="center" src="https://img.shields.io/badge/-deveshpunjabi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/deveshpunjabi/" alt="deveshpunjabi" height="20" width="120" /></a>
+<a href="https://github.com/deveshpunjabi" target="blank"><img align="center" src="https://img.shields.io/badge/-deveshpunjabi-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/deveshpunjabi/" alt="deveshpunjabi" height="20" width="120" /></a>
+<a href="https://twitter.com/deveshpunjabi" target="blank"><img align="center" src="https://img.shields.io/badge/-deveshpunjabi-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/deveshpunjabi/" alt="deveshpunjabi" height="20" width="120" /></a>
+</p>
+
+**🎓 Background**: Cybersecurity Student & AI Research Enthusiast  
+**💼 Mission**: Making data analytics education accessible to everyone  
+**📍 Location**: Based in India, Supporting learners globally  
 
 ---
 
 ## ⭐ **Show Your Support**
 
-<div align="center">
+If this roadmap helps you in your data analytics journey:
 
-**🌟 If this roadmap is helping you on your data analytics journey:**
-
-**⭐ Star this repository** • **🍴 Fork for your own use** • **📢 Share with friends**
-**💬 Join our Discord** • **📝 Contribute improvements** • **🎯 Tag us in your success story**
-
----
-
-**🏆 Success Stories Counter: 542 graduates and counting!**
-
-**💼 Average Salary Increase: 67% for career changers**
-
-**⏱️ Average Time to First Job: 3.2 months**
-
-</div>
+- ⭐ **Star this repository**
+- 🍴 **Fork it to customize for your needs**
+- 📢 **Share with friends and colleagues**
+- 💬 **Join our community discussions**
+- 📝 **Contribute improvements and suggestions**
 
 ---
 
-## 📜 **License & Terms**
+## 📄 **License**
 
-**MIT License** - This project is completely open source and free to use, modify, and distribute.
-
-### **📋 Usage Terms**
-- ✅ **Free for Personal Use**: Use for your own learning journey
-- ✅ **Free for Educational Use**: Teachers and institutions welcome
-- ✅ **Modification Allowed**: Adapt for your specific needs
-- ✅ **Commercial Training**: Contact for enterprise licensing
-- ❌ **No Warranty**: Use at your own risk
-- 📝 **Attribution**: Please credit this repository when sharing
-
-### **🤝 Contributing Guidelines**
-We welcome contributions! Please see our [Contributing Guide](./CONTRIBUTING.md) for:
-- 🐛 Bug reports and fixes
-- 💡 New feature suggestions
-- 📚 Content improvements and updates
-- 🌍 Translation and localization
-- 🎯 Success story submissions
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 **Acknowledgments & Credits**
+## 🙏 **Acknowledgments**
 
-### **🎓 Educational Inspiration**
-- **@mrankitgupta** for the original Data Analyst Roadmap that inspired this enhanced version
-- **MIT OpenCourseWare** for free high-quality educational content
-- **Kaggle Learn** for practical, hands-on learning approaches
-- **Google Data Analytics Certificate** for industry-aligned curriculum structure
-
-### **👥 Community Contributors**
-- **500+ Beta Testers** who provided feedback during development
-- **15+ Industry Mentors** who validated curriculum and provided real-world insights
-- **Data Analytics Community** on Discord, Reddit, and LinkedIn for continuous support
-- **Open Source Contributors** who submitted improvements and bug fixes
-
-### **🏢 Industry Partners**
-- **Microsoft** for Power BI educational resources
-- **Tableau** for Tableau Public platform and learning materials
-- **Kaggle** for datasets and learning platform
-- **GitHub** for hosting and collaboration tools
-
-### **📚 Content Sources**
-All content is original or properly attributed. Free resources are linked to their original sources. This roadmap synthesizes best practices from:
-- Industry-standard certification programs
-- University data science curricula
-- Professional development frameworks
-- Real-world job requirements analysis
+Special thanks to:
+- **@mrankitgupta** for inspiration from the original Data Analyst Roadmap
+- **The open-source community** for providing free tools and resources
+- **All the educators and content creators** who make learning accessible
+- **Our community members** who provide feedback and support
 
 ---
 
 <div align="center">
 
-**🚀 Ready to Transform Your Career?**
+**🎯 Ready to start your Data Analytics journey?**
 
-**👇 Start Your Journey Below 👇**
-
-[📚 Begin Week 1: Foundation & Excel](#week-1-foundation--excel-mastery-) | [🤝 Join Community](https://discord.gg/data-analysts-2025) | [📞 Get Support](./FAQ.md)
+[📚 Begin with Phase 1](./01-Foundation/) | [🤝 Join Our Community](https://discord.gg/dataanalysts) | [📞 Get Support](./FAQ.md)
 
 ---
 
-**🎯 "The best time to plant a tree was 20 years ago. The second best time is now."**
-**🌱 Your data analytics career starts today!**
+**Made with ❤️ by [Devesh Punjabi](https://github.com/deveshpunjabi)**
 
----
-
-**Made with ❤️ and ☕ by [Devesh Punjabi](https://github.com/deveshpunjabi)**
-
-*Empowering the next generation of data analysts, one student at a time.*
-
-**Last Updated**: August 6, 2025 12:40 UTC | **Version**: 2.0.1 | **Build**: Stable
+*Last Updated: August 2025*
 
 </div>
